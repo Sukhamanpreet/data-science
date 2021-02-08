@@ -1,0 +1,5 @@
+#UNSUPERVISED MACHINE LEARNING
+
+#This is unsupervised machine learning model, here k means clustering algorithm is used on Iris dataset.
+Clusters of different species were made.
+Different values for cluster (k) were used.
